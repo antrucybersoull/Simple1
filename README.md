@@ -1,4 +1,4 @@
-`` Can you help me find out if someone has entered it without permission and is hiding something? ``
+``  Someone has hidden a message inside, can you please help me find it?  ``
 
 
 
@@ -11,6 +11,6 @@ Robot36
 
 
 
-
+#ITS A SIMPLE CTF 
 
 Created By Antru
