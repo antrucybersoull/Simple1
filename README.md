@@ -11,6 +11,6 @@ Robot36
 
 
 
-#ITS A SIMPLE CTF 
+# ITS A SIMPLE CTF 
 
 Created By Antru
